@@ -1,0 +1,17 @@
+[
+{
+  "modid": "dimensionalores",
+  "name": "Dimensional Ores",
+  "description": "More ores for mining",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Dyonovan", "pauljoda"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "dependants": []
+}
+]
